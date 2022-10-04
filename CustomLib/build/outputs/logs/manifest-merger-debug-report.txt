@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
+		INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml:5:5-11:19
+activity#com.mma.android.customlib.ListFavorit
+ADDED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml:6:9-10:74
+	android:label
+		ADDED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml:9:13-64
+	android:exported
+		ADDED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml:8:13-37
+	android:theme
+		ADDED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml:10:13-71
+	android:name
+		ADDED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml:7:13-40
+uses-sdk
+INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
+INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
+INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
+INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
+		ADDED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
+		INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
+		ADDED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
+		INJECTED from /Users/SP38117/AndroidStudioProjects/CustomUtilExample/CustomLib/src/main/AndroidManifest.xml
